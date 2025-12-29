@@ -1,2 +1,3 @@
-1
-aksfjal|tieu de 1|tac gia 1|the loai 1|nxmaf|1990|12000|23000
+2
+S01|Doraemon|Fujiko|Truyen Tranh|Kim Dong|1999|15000|20000
+S02|Conan|Aoyama|Trinh Tham|Kim Dong|2000|18000|25000
